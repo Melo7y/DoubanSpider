@@ -50,4 +50,4 @@ scrapy crawl movie_comment
 
 
 
-![38a94ea1dde740b6889e9cbb9a727c8](C:\Users\Melo\Documents\DoubanSpider\img\38a94ea1dde740b6889e9cbb9a727c8.png)
+![38a94ea1dde740b6889e9cbb9a727c8](.\img\38a94ea1dde740b6889e9cbb9a727c8.png)

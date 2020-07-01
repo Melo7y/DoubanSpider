@@ -46,6 +46,8 @@ scrapy crawl movie_subject
 scrapy crawl movie_comment
 ```
 
+下图是本人使用代理单机爬取两小时的结果：
+
 
 
 ![38a94ea1dde740b6889e9cbb9a727c8](C:\Users\Melo\Documents\DoubanSpider\img\38a94ea1dde740b6889e9cbb9a727c8.png)
